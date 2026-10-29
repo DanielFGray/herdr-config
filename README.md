@@ -16,13 +16,13 @@ Additions for the [Herdr app](https://herdr.dev):
 
 Ask your agent to add this layout, or copy these folders into
 `~/.config/herdr-app`:
-`layouts/main-usage.json`, `mods/usage/`, `mods/prefix/` and
+`layouts/herdr-dfg.json`, `mods/usage/`, `mods/prefix/` and
 `themes/catppuccin-*.json`. Then:
 
 ```sh
 herdr-app check ~/.config/herdr-app/mods/usage
 herdr-app check ~/.config/herdr-app/mods/prefix
-herdr-app do layout.switch --name main-usage
+herdr-app do layout.switch --name herdr-dfg
 ```
 
 To use the prefix keys, add this to the `global` section of `keys.json`:

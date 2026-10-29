@@ -73,7 +73,7 @@ Mocha themes come with it.
 
 ## Built from
 
-- `layouts/main-usage.json`: a clone of `main` whose `status` block holds
+- `layouts/herdr-dfg.json`: a clone of `main` whose `status` block holds
   `{ "mod": "usage" }`.
 - `mods/usage/`:
   - `main.js`: the bar and the popup;
