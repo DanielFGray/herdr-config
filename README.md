@@ -48,6 +48,10 @@ services, write `~/.config/herdr-app/usage.json` with
   undocumented endpoints, with the sign-ins their CLIs saved on this
   machine. Nothing is sent anywhere else.
 
+## License
+
+Apache-2.0; see [LICENSE](LICENSE).
+
 ## Credits
 
 The usage pace and countdown maths, the system load sampling and the look
