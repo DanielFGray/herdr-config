@@ -1,0 +1,27 @@
+# This folder is the Herdr app's home: most of it is Herdr's (rewritten on
+# every start) or private state (shared.json, view.json, telemetry). Track
+# only what this repo adds, and ignore everything else.
+/*
+!/.gitignore
+!/README.md
+!/RECIPE.md
+!/preview.png
+
+!/layouts/
+/layouts/*
+!/layouts/main-usage.json
+
+!/mods/
+/mods/*
+!/mods/usage/
+!/mods/prefix/
+
+!/themes/
+/themes/*
+!/themes/catppuccin-latte.json
+!/themes/catppuccin-mocha.json
+
+# Written by Herdr into every mod folder.
+gpui-kit.d.ts
+jsconfig.json
+*.error
